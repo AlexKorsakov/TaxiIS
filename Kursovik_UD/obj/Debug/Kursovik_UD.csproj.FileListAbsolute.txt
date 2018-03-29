@@ -1,0 +1,47 @@
+F:\Учеба\5 семестр\Управление данными\Курсовой\Kursovik_UD\Kursovik_UD\bin\Debug\Kursovik_UD.exe
+F:\Учеба\5 семестр\Управление данными\Курсовой\Kursovik_UD\Kursovik_UD\bin\Debug\Kursovik_UD.pdb
+F:\Учеба\5 семестр\Управление данными\Курсовой\Kursovik_UD\Kursovik_UD\obj\Debug\Kursovik_UD.csprojResolveAssemblyReference.cache
+F:\Учеба\5 семестр\Управление данными\Курсовой\Kursovik_UD\Kursovik_UD\obj\Debug\Kursovik_UD.Operator.resources
+F:\Учеба\5 семестр\Управление данными\Курсовой\Kursovik_UD\Kursovik_UD\obj\Debug\Kursovik_UD.Properties.Resources.resources
+F:\Учеба\5 семестр\Управление данными\Курсовой\Kursovik_UD\Kursovik_UD\obj\Debug\Kursovik_UD.csproj.GenerateResource.Cache
+F:\Учеба\5 семестр\Управление данными\Курсовой\Kursovik_UD\Kursovik_UD\obj\Debug\Kursovik_UD.exe
+F:\Учеба\5 семестр\Управление данными\Курсовой\Kursovik_UD\Kursovik_UD\obj\Debug\Kursovik_UD.pdb
+F:\Учеба\5 семестр\Управление данными\Курсовой\Kursovik_UD\Kursovik_UD\bin\Debug\Kursovik_UD.exe.config
+F:\Учеба\5 семестр\Управление данными\Курсовой\Kursovik_UD\Kursovik_UD\obj\Debug\Kursovik_UD.Main.resources
+F:\Учеба\5 семестр\Управление данными\Курсовой\Kursovik_UD\Kursovik_UD\obj\Debug\Kursovik_UD.CreateRequest.resources
+F:\Учеба\5 семестр\Управление данными\Курсовой\Kursovik_UD\Kursovik_UD\obj\Debug\Kursovik_UD.Autorizate.resources
+F:\Учеба\5 семестр\Управление данными\Курсовой\Kursovik_UD\Kursovik_UD\obj\Debug\Kursovik_UD.Medic.resources
+F:\Учеба\5 семестр\Управление данными\Курсовой\Kursovik_UD\Kursovik_UD\obj\Debug\Kursovik_UD.Drivers.resources
+F:\Учеба\5 семестр\Управление данными\Курсовой\Kursovik_UD\Kursovik_UD\obj\Debug\Kursovik_UD.MedicInspection.resources
+F:\Учеба\5 семестр\Управление данными\Курсовой\Kursovik_UD\Kursovik_UD\obj\Debug\Kursovik_UD.Technic.resources
+F:\Учеба\5 семестр\Управление данными\Курсовой\Kursovik_UD\Kursovik_UD\obj\Debug\Kursovik_UD.T_carInfo.resources
+F:\Учеба\5 семестр\Управление данными\Курсовой\Kursovik_UD\Kursovik_UD\obj\Debug\Kursovik_UD.T_AddCar.resources
+F:\Учеба\5 семестр\Управление данными\Курсовой\Kursovik_UD\Kursovik_UD\obj\Debug\Kursovik_UD.Preferences.resources
+F:\Учеба\5 семестр\Управление данными\Курсовой\Kursovik_UD\Kursovik_UD\obj\Debug\Kursovik_UD.Admin.resources
+F:\Учеба\5 семестр\Управление данными\Курсовой\Kursovik_UD\Kursovik_UD\bin\Debug\Interop.SpeechLib.dll
+F:\Учеба\5 семестр\Управление данными\Курсовой\Kursovik_UD\Kursovik_UD\obj\Debug\Interop.SpeechLib.dll
+F:\Учеба\5 семестр\Управление данными\Курсовой\Kursovik_UD\Kursovik_UD\obj\Debug\Kursovik_UD.csproj.ResolveComReference.cache
+F:\Учеба\5 семестр\Управление данными\Курсовой\Kursovik_UD\Kursovik_UD\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+F:\Учеба\5 семестр\Управление данными\Курсовой\Kursovik_UD\Kursovik_UD\bin\Debug\CrystalDecisions.ReportSource.dll
+F:\Учеба\5 семестр\Управление данными\Курсовой\Kursovik_UD\Kursovik_UD\bin\Debug\CrystalDecisions.Shared.dll
+F:\Учеба\5 семестр\Управление данными\Курсовой\Kursovik_UD\Kursovik_UD\bin\Debug\CrystalDecisions.Web.dll
+F:\Учеба\5 семестр\Управление данными\Курсовой\Kursovik_UD\Kursovik_UD\obj\Debug\RdlCompile.cache
+F:\Учеба\5 семестр\Управление данными\Курсовой\Kursovik_UD\Kursovik_UD\obj\Debug\RdlCompile.compiled
+F:\Учеба\5 семестр\Управление данными\Курсовой\Kursovik_UD\Kursovik_UD\obj\Debug\Kursovik_UD.Streets.resources
+F:\Учеба\5 семестр\Управление данными\Курсовой\Kursovik_UD\Kursovik_UD\obj\Debug\Kursovik_UD.Tarifs.resources
+F:\Учеба\5 семестр\Управление данными\Курсовой\Kursovik_UD\Kursovik_UD\obj\Debug\Kursovik_UD.ReportConfig.resources
+F:\Учеба\5 семестр\Управление данными\Курсовой\Kursovik_UD\Kursovik_UD\obj\Debug\Kursovik_UD.Report_drv_stats.resources
+F:\Учеба\5 семестр\Управление данными\Курсовой\Kursovik_UD\Kursovik_UD\obj\Debug\Kursovik_UD.Report_drv_profit.resources
+F:\Учеба\5 семестр\Управление данными\Курсовой\Kursovik_UD\Kursovik_UD\obj\Debug\Kursovik_UD.Report_medic.resources
+F:\Учеба\5 семестр\Управление данными\Курсовой\Kursovik_UD\Kursovik_UD\obj\Debug\Kursovik_UD.Report_technic.resources
+F:\Учеба\5 семестр\Управление данными\Курсовой\Kursovik_UD\Kursovik_UD\obj\Debug\Kursovik_UD.T_NewTO.resources
+e:\Учеба\5 семестр\Управление данными\Курсовой\Kursovik_UD\Kursovik_UD\bin\Debug\Kursovik_UD.exe.config
+e:\Учеба\5 семестр\Управление данными\Курсовой\Kursovik_UD\Kursovik_UD\obj\Debug\Interop.SpeechLib.dll
+e:\Учеба\5 семестр\Управление данными\Курсовой\Kursovik_UD\Kursovik_UD\obj\Debug\Kursovik_UD.csproj.ResolveComReference.cache
+e:\Учеба\5 семестр\Управление данными\Курсовой\Kursovik_UD\Kursovik_UD\obj\Debug\Kursovik_UD.exe
+e:\Учеба\5 семестр\Управление данными\Курсовой\Kursovik_UD\Kursovik_UD\obj\Debug\Kursovik_UD.pdb
+e:\MrShnicel\Cloud Mail\Backups\16.04.2017\Учеба\5 семестр\Управление данными\Курсовой\Kursovik_UD\Kursovik_UD\bin\Debug\Kursovik_UD.exe.config
+e:\MrShnicel\Cloud Mail\Backups\16.04.2017\Учеба\5 семестр\Управление данными\Курсовой\Kursovik_UD\Kursovik_UD\obj\Debug\Interop.SpeechLib.dll
+e:\MrShnicel\Cloud Mail\Backups\16.04.2017\Учеба\5 семестр\Управление данными\Курсовой\Kursovik_UD\Kursovik_UD\obj\Debug\Kursovik_UD.csproj.ResolveComReference.cache
+e:\MrShnicel\Cloud Mail\Backups\16.04.2017\Учеба\5 семестр\Управление данными\Курсовой\Kursovik_UD\Kursovik_UD\obj\Debug\Kursovik_UD.exe
+e:\MrShnicel\Cloud Mail\Backups\16.04.2017\Учеба\5 семестр\Управление данными\Курсовой\Kursovik_UD\Kursovik_UD\obj\Debug\Kursovik_UD.pdb

@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>Crystal.Reports.Essentials</id>
+    <version>13.0.15.1840</version>
+    <title>Crystal Reports Essentials</title>
+    <authors>Jackes David</authors>
+    <owners>Jackes David</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Essential Crystal Reports Files</description>
+    <releaseNotes>Updated to Crystal Reports 13 Service Pack 15</releaseNotes>
+  </metadata>
+</package>

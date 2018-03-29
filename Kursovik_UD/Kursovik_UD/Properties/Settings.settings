@@ -1,0 +1,22 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Kursovik_UD.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="TaxiConnectionString" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;character set=WIN1251;data source=127.0.0.1;user id=sysdba;Password=masterkey;initial catalog="C:\Program Files (x86)\Firebird\Firebird_2_5\examples\empbuild\TAXI.FDB"&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;FirebirdSql.Data.FirebirdClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">character set=WIN1251;data source=127.0.0.1;user id=sysdba;Password=masterkey;initial catalog="C:\Program Files (x86)\Firebird\Firebird_2_5\examples\empbuild\TAXI.FDB"</Value>
+    </Setting>
+    <Setting Name="TaxiConnectionString_Auth" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;character set=WIN1251;initial catalog="C:\Program Files (x86)\Firebird\Firebird_2_5\examples\empbuild\TAXI.FDB";data source=127.0.0.1;user id=sysdba&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;FirebirdSql.Data.FirebirdClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">character set=WIN1251;initial catalog="C:\Program Files (x86)\Firebird\Firebird_2_5\examples\empbuild\TAXI.FDB";data source=127.0.0.1;user id=sysdba</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
